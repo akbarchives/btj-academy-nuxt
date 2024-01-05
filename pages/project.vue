@@ -6,27 +6,27 @@
         <input
           class="p-5 border border-black rounded-lg"
           type="text"
-          placeholder="Company ..."
+          placeholder="App name"
         />
         <input
           class="p-5 border border-black rounded-lg"
           type="text"
-          placeholder="Postion"
+          placeholder="Role"
         />
         <input
           class="p-5 border border-black rounded-lg"
           type="text"
-          placeholder="tahun masuk"
+          placeholder="year"
         />
         <input
           class="p-5 border border-black rounded-lg"
           type="text"
-          placeholder="tahun keluar"
+          placeholder="URL project"
         />
       </div>
     </div>
     <button class="p-5 text-lg font-medium bg-orange-200 mr-5 rounded-lg mt-5">
-      Add other work
+      Add other project
     </button>
     <button class="p-5 text-lg font-medium bg-blue-500 rounded-lg mt-5">
       Submit

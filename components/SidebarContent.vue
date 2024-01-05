@@ -13,15 +13,15 @@
       </li>
 
       <li class="p-4 border-b-2 border-black">
-        <nuxt-link to="">Portofolio</nuxt-link>
+        <nuxt-link to="/portofolio">Portofolio</nuxt-link>
       </li>
 
       <li class="p-4 border-b-2 border-black">
-        <nuxt-link to="">Personal Project</nuxt-link>
+        <nuxt-link to="/project">Personal Project</nuxt-link>
       </li>
 
       <li class="p-4 border-b-2 border-black">
-        <nuxt-link to="">Contact</nuxt-link>
+        <nuxt-link to="/contact">Contact</nuxt-link>
       </li>
     </ul>
   </sidebar>
